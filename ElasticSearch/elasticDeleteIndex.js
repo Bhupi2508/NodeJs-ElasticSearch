@@ -4,7 +4,7 @@
  * 
  *  @Purpose        : Elastic search de;lete data 
  * 
- *  @description    : Using ElasticSearch we can search anything from DataBase 
+ *  @description    : Using ElasticSearch we can search anything from ElasticSearch DataBase 
  * 
  *  @overview       : ElasticSearch connections
  *  @author         : Bhupendra Singh <bhupendrasingh.ec18@gmail.com>
