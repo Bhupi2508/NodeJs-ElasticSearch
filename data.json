@@ -1,0 +1,23 @@
+[
+    {
+        "PANO": "a003",
+        "key": "OPN_9_2",
+        "name": "Opeon CRM",
+        "type": "COTS",
+        "status": "active"
+    },
+    {
+        "PANO": "a002",
+        "key": "FINTEC_2_1",
+        "name": "Fin Tech Wealth Management",
+        "type": "COTS",
+        "status": "active"
+    },
+    {
+        "PANO": "a001",
+        "key": "CBX_Digital",
+        "name": "IGTB Corporate Business Exchange",
+        "type": "COTS",
+        "status": "active"
+    }
+]
